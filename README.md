@@ -1,2 +1,5 @@
 # nonsdk issues
-Any issues related to Alexa, Google Home, SmartThings, IFTTT, API Please create an issue in this repo.
+
+This repo is for any issues related to Alexa, Google Home, SmartThings, IFTTT, API. 
+
+If you have any questions, suggestions please create an issue here.
